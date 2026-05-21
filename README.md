@@ -17,28 +17,19 @@ ForensiKit is a Python based digital forensics toolkit designed to demonstrate c
 ```bash
 python3 main.py
 
-Why This Project Matters
+## Why This Project Matters
 
-Digital forensics plays an important role in cybersecurity investigations, incident response, and evidence analysis. Investigators often need to recover deleted files, verify file integrity through hashing, analyze suspicious logs, and document findings.
+Digital forensics plays an important role in cybersecurity investigations, incident response, and evidence analysis.
 
-This project demonstrates core digital forensics workflows used in cybersecurity investigations while showcasing practical Python scripting and security tooling skills.
+## Tools and Technologies Used
 
-Tools and Technologies Used
-Python
-Tkinter
-hashlib
-os
-datetime
-Future Improvements
-Add advanced file carving support
-Add EXIF image metadata extraction
-Add PDF forensic report exporting
-Add timeline visualization features
-Add Sleuth Kit command integration
-Add malware signature detection
-Author
+- Python
+- Tkinter
+- hashlib
+- os
+- datetime
 
-Arnob Mandal
-Information Technology Student
-Cybersecurity Concentration
-George Mason University
+## Future Improvements
+
+- Add advanced file carving support
+- Add EXIF image metadata extraction
