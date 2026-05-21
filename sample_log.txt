@@ -1,0 +1,6 @@
+2026-05-21 10:01 Login successful for user admin
+2026-05-21 10:04 Failed login attempt from 192.168.1.45
+2026-05-21 10:05 Failed login attempt from 192.168.1.45
+2026-05-21 10:06 Unauthorized access denied
+2026-05-21 10:10 File opened successfully
+2026-05-21 10:12 Possible brute force attack detected
