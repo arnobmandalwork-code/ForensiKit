@@ -1,35 +1,23 @@
-# ForensiKit - Digital Forensics Toolkit
+# ForensiKit
 
-ForensiKit is a Python based digital forensics toolkit designed to demonstrate core cybersecurity and forensic investigation workflows. The project includes tools for file hashing, metadata extraction, suspicious file scanning, log analysis, forensic reporting, and basic file recovery operations through a simple desktop GUI.
+ForensiKit is a Python based digital forensics toolkit designed to simulate basic forensic investigation workflows through a graphical interface.
 
 ## Features
 
-- Recover files from raw binary data using file signatures
-- Generate MD5, SHA1, and SHA256 hashes
-- Extract file metadata and timestamps
-- Scan folders for suspicious or potentially dangerous files
-- Analyze log files for suspicious activity indicators
-- Generate basic forensic investigation reports
-- Simple Tkinter graphical interface
+- File hashing (MD5, SHA1, SHA256)
+- Metadata extraction
+- Suspicious file scanning
+- Log file analysis
+- Forensic style reporting
+- GUI based workflow
 
-## How to Run
-
-```bash
-python3 main.py
-
-## Why This Project Matters
-
-Digital forensics plays an important role in cybersecurity investigations, incident response, and evidence analysis.
-
-## Tools and Technologies Used
+## Technologies Used
 
 - Python
 - Tkinter
-- hashlib
-- os
-- datetime
+- OS / File Handling
+- Cryptographic Hashing
 
-## Future Improvements
+## Purpose
 
-- Add advanced file carving support
-- Add EXIF image metadata extraction
+This project was built to explore digital forensics concepts such as evidence integrity, metadata analysis, and suspicious file investigation through a beginner friendly forensic toolkit.
